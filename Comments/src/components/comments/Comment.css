@@ -1,0 +1,12 @@
+.comment {
+  padding: 8px;
+  border-radius: 8px;
+  background-color: #00A9FF;
+}
+.comment h1 {
+  color: #fff;
+}
+.comment p {
+  margin: 5px;
+  color: #fff;
+}

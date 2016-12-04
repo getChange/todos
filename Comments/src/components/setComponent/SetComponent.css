@@ -1,0 +1,13 @@
+.setcomponent textarea {
+  display: block;
+  width: 100%;
+  height: 100px;
+}
+.setcomponent button {
+  width: 100px;
+  height: 40px;
+  border-radius: 20px;
+  color: #fff;
+  border: none;
+  background: #ed8c8c;
+}
